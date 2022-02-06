@@ -6,3 +6,4 @@ Ceci est une page web pour le cours sur git
 
 * Introduction à Git
 * Introduction à GitHub
+* git vs github
